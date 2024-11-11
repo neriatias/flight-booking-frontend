@@ -39,7 +39,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-4">Flight Booking</h1>
+      <h1 className="text-3xl font-bold mb-4"> Booking</h1>
 
       <form onSubmit={searchFlights} className="mb-6">
         <div className="flex flex-col space-y-4">
